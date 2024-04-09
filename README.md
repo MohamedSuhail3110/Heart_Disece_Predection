@@ -1,7 +1,6 @@
-# SI-GuidedProject-78335-1656736746
-ECG- Image based Heartbeat classification for Arrhythmia Detection Using IBM Watson Studio
+ECG- Image based Heartbeat classification
 
-ECG- Image Based Heartbeat Classification For Arrhythmia Detection Using IBM Watson Studio
+ECG- Image Based Heartbeat Classification 
 
 Introduction:
 
